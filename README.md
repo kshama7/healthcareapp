@@ -2,10 +2,8 @@
 An app made using android studio which allows users to book doctor's appointments and lab tests with ease.
 Built using Java,XML and SQLite. Contains a User and Admin Interface.
 
-<img src="![Screenshot_20230208_174813_Healthcare](https://github.com/kshama7/healthcareapp/assets/75107843/ad37cba5-7f79-4a0d-a1b4-52b11247c5d3)
-" width="150" height="280">
 
-![Screenshot_20230208_174901_Healthcare](https://github.com/kshama7/healthcareapp/assets/75107843/f8274c2e-895c-461b-a8b6-6a8e7ac209b7)
+![Screenshot_20230208_174901_Healthcare](https://github.com/kshama7/healthcareapp/assets/75107843/f8274c2e-895c-461b-a8b6-6a8e7ac209b7){:height="150px" width="280px"}
 ![Screenshot_20230208_174906_Healthcare](https://github.com/kshama7/healthcareapp/assets/75107843/6b24a0eb-1787-434e-810c-f24cdcaabdca)
 ![Screenshot_20230208_174913_Healthcare](https://github.com/kshama7/healthcareapp/assets/75107843/4a0bbda9-5a3a-445f-94b4-9fe00812e7ad)
 ![Screenshot_20230208_174813_Healthcare](https://github.com/kshama7/healthcareapp/assets/75107843/a0518f3a-4728-49d1-b823-fe2101ac0e93)
